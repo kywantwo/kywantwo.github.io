@@ -48,7 +48,7 @@
             {
                 "name": "identity",
                 "title": "Identity",
-                "file": "./pages/intro.md"
+                "file": "./pages/intro.html"
             },
             {
                 "name": "test",
