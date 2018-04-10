@@ -1,0 +1,18 @@
+.regular {
+  font-weight: 400 !important;
+}
+
+.semibold {
+  font-weight: 600 !important;
+}
+
+.light {
+  font-weight: 300 !important;
+}
+
+.fatcat {
+  min-height: 20em;
+  min-width: 20em;
+  display: flex;
+  z-index: 1;
+}
